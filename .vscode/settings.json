@@ -1,6 +1,6 @@
 {
     "terminal.integrated.defaultProfile.linux": "",
-    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.defaultProfile.osx": "fish",
     "terminal.integrated.defaultProfile.windows": "",
     "launch": {
         "configurations": [],
