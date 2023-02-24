@@ -17,6 +17,8 @@ import "react-pro-sidebar/dist/css/styles.css"
 import { Link } from "react-router-dom"
 import { tokens } from "../../theme"
 
+// function for theme
+
 const Item = ({ title, to, icon, selected, setSelected }) => {
     const theme = useTheme()
     const colors = tokens(theme.palette.mode)
